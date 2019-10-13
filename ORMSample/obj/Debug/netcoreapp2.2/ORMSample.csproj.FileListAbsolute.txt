@@ -1,0 +1,11 @@
+E:\FrameworkCode\ORM_Demo\ORMSample\bin\Debug\netcoreapp2.2\ORMSample.deps.json
+E:\FrameworkCode\ORM_Demo\ORMSample\bin\Debug\netcoreapp2.2\ORMSample.runtimeconfig.json
+E:\FrameworkCode\ORM_Demo\ORMSample\bin\Debug\netcoreapp2.2\ORMSample.runtimeconfig.dev.json
+E:\FrameworkCode\ORM_Demo\ORMSample\bin\Debug\netcoreapp2.2\ORMSample.dll
+E:\FrameworkCode\ORM_Demo\ORMSample\bin\Debug\netcoreapp2.2\ORMSample.pdb
+E:\FrameworkCode\ORM_Demo\ORMSample\obj\Debug\netcoreapp2.2\ORMSample.csprojAssemblyReference.cache
+E:\FrameworkCode\ORM_Demo\ORMSample\obj\Debug\netcoreapp2.2\ORMSample.csproj.CoreCompileInputs.cache
+E:\FrameworkCode\ORM_Demo\ORMSample\obj\Debug\netcoreapp2.2\ORMSample.AssemblyInfoInputs.cache
+E:\FrameworkCode\ORM_Demo\ORMSample\obj\Debug\netcoreapp2.2\ORMSample.AssemblyInfo.cs
+E:\FrameworkCode\ORM_Demo\ORMSample\obj\Debug\netcoreapp2.2\ORMSample.dll
+E:\FrameworkCode\ORM_Demo\ORMSample\obj\Debug\netcoreapp2.2\ORMSample.pdb
